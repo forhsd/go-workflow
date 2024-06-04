@@ -5,8 +5,8 @@ import (
 	"log/slog"
 	"net/http"
 
-	flow "github.com/Azure/go-workflow"
-	"github.com/Azure/go-workflow/visual/react/out"
+	flow "github.com/forhsd/go-workflow"
+	"github.com/forhsd/go-workflow/visual/react/out"
 	"github.com/google/uuid"
 )
 

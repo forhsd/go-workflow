@@ -474,7 +474,7 @@ func catchPanicAsError(f func() error) error {
 					*err = fmt.Errorf("%s", r)
 				}
 				*err = WithStackTraces(4, 32, func(f runtime.Frame) bool {
-					return strings.HasPrefix(f.Function, "github.com/Azure/go-workflow")
+					return strings.HasPrefix(f.Function, "github.com/forhsd/go-workflow")
 				})(*err)
 				*err = ErrPanic{*err}
 			}

@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	flow "github.com/Azure/go-workflow"
+	flow "github.com/forhsd/go-workflow"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

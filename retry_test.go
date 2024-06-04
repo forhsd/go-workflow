@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	flow "github.com/Azure/go-workflow"
 	"github.com/benbjohnson/clock"
 	"github.com/cenkalti/backoff/v4"
+	flow "github.com/forhsd/go-workflow"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

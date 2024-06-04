@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	flow "github.com/Azure/go-workflow"
+	flow "github.com/forhsd/go-workflow"
 )
 
 // Examples are a good place to ramp-up and have a quick look at this package's features.

@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	flow "github.com/Azure/go-workflow"
 	"github.com/benbjohnson/clock"
+	flow "github.com/forhsd/go-workflow"
 )
 
 // # Step Timeout and Per-Try Timeout

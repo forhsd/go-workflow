@@ -1,6 +1,6 @@
 # Workflow - a library organizes steps with dependencies into DAG (Directed-Acyclic-Graph) for Go
-[![Go Report Card](https://goreportcard.com/badge/github.com/Azure/go-workflow)](https://goreportcard.com/report/github.com/Azure/go-workflow)
-[![Go Test Status](https://github.com/Azure/go-workflow/actions/workflows/go.yml/badge.svg)](https://github.com/Azure/go-workflow/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/forhsd/go-workflow)](https://goreportcard.com/report/github.com/forhsd/go-workflow)
+[![Go Test Status](https://github.com/forhsd/go-workflow/actions/workflows/go.yml/badge.svg)](https://github.com/forhsd/go-workflow/actions/workflows/go.yml)
 [![Go Test Coverage](https://raw.githubusercontent.com/Azure/go-workflow/badges/.badges/main/coverage.svg)](/.github/.testcoverage.yml)
 
 ## Overview
@@ -22,7 +22,7 @@ package yours
 import (
     "context"
 
-    flow "github.com/Azure/go-workflow"
+    flow "github.com/forhsd/go-workflow"
 )
 
 type Step struct{ Value string }

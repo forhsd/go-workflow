@@ -6,7 +6,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	flow "github.com/Azure/go-workflow"
+	flow "github.com/forhsd/go-workflow"
 )
 
 // # Workflow Options

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	flow "github.com/Azure/go-workflow"
+	flow "github.com/forhsd/go-workflow"
 )
 
 // # Condition and When

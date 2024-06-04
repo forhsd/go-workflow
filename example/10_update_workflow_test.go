@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	flow "github.com/Azure/go-workflow"
+	flow "github.com/forhsd/go-workflow"
 )
 
 // [STOP HERE FOR BASIC USAGE]

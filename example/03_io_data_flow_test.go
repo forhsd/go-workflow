@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"testing"
 
-	flow "github.com/Azure/go-workflow"
+	flow "github.com/forhsd/go-workflow"
 )
 
 // # Data Flow via `Input` and `Output`

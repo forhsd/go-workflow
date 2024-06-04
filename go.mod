@@ -1,4 +1,4 @@
-module github.com/Azure/go-workflow
+module github.com/forhsd/go-workflow
 
 go 1.22.2
 
